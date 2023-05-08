@@ -1,0 +1,42 @@
+
+#menu {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(51, 49, 49);
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+#menu a {
+    text-decoration: none;
+    color: red;
+
+}
+
+#menu a:hover {
+    text-decoration: none;
+    color: rgb(139, 175, 190);
+
+}
+
+#menu li {
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+.item-1{
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.item-2{
+    color: aliceblue;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 3px solid red;
+}
+.item-3{
+    text-align: center;
+}
